@@ -203,6 +203,17 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# GameMatch AI - local data and generated indexes
+data/raw/*
+data/processed/*
+indexes/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!indexes/.gitkeep
+
+# Local environment variables
+.env
+
 # Ruff stuff:
 .ruff_cache/
 
