@@ -6,16 +6,29 @@
 - [x] İlk klasör yapısını hazırla
 - [x] Veri klasörlerini `.gitignore` ile koru
 - [x] MVP akışını proje belgelerine yaz
+- [x] Python sanal ortamını oluştur
+- [x] Temel bağımlılıkları belirle
+- [x] `games.csv` ve `games.json` dosyalarını yerel veri klasörüne ekle
+- [x] Veri setinin sütunlarını ve ilk örnek kayıtlarını incele
+- [x] `DiscountDLC count` başlık sorununu belirle ve okuma sırasında düzelt
+- [x] Temel alanlardaki eksik değerleri incele
+- [x] Playtest kayıtlarını say
+- [x] Boş dil listelerini ve tekrar eden AppID değerlerini kontrol et
 
 ## Sıradaki adımlar
 
-- [ ] Python sanal ortamını oluştur
-- [ ] Temel bağımlılıkları belirle
-- [ ] `games.csv` dosyasını `data/raw/` klasörüne ekle
-- [ ] Veri setini Pandas ile oku ve sütunları incele
-- [ ] `DiscountDLC count` alanını ön işleme sırasında güvenli biçimde düzelt
-- [ ] Temizlenmiş küçük bir örnek veri üret
+- [ ] İlk temizleme kurallarını kesinleştir
+- [ ] Playtest ve temel alanları eksik kayıtların nasıl ele alınacağını belirle
+- [ ] Dil bilgisi boş olan ön aday kayıtları incele
+- [ ] Tekrar kullanılabilir veri yükleme ve temizleme kodunu yaz
+- [ ] Temizlenmiş veri setini `data/processed/` altında üret
 - [ ] Dört kesin filtrenin çıkarımını geliştir
 - [ ] Filtrelenmiş oyunlar üzerinde anlamsal aramayı geliştir
 - [ ] En fazla beş açıklanabilir öneri göster
 - [ ] Temel testleri yaz
+
+## Güncel durum
+
+- **Tarih:** 29 Temmuz 2026
+- **Aşama:** Veri inceleme ve kalite kontrolü
+- **Sıradaki iş:** Temizleme kriterlerini kesinleştirmek

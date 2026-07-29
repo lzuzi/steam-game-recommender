@@ -22,3 +22,23 @@ oyunları arasından uygun seçenekler önermeyi amaçlar.
 - Mobil uygulama
 
 Bu özellikler MVP tamamlandıktan sonra yeniden değerlendirilebilir.
+
+## Veri kaynağı
+
+Projede Kaggle üzerinde yayımlanan
+[Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
+kullanılmaktadır. Ham CSV ve JSON dosyaları yalnızca yerel `data/raw/`
+klasöründe tutulur ve GitHub'a gönderilmez.
+
+## İlk veri bulguları
+
+- Toplam 125.855 kayıt bulunmaktadır.
+- CSV başlığındaki iki alan birleştiği için veri okuma sırasında düzeltilmektedir.
+- 8.139 kayıt Playtest olarak belirlenmiştir.
+- Oyun adı, açıklama, kategori ve tür alanları dolu olan 116.281 normal kayıt
+  ön aday olarak belirlenmiştir.
+- Desteklenen dil alanı 8.391 kayıtta boş liste şeklindedir.
+- AppID alanındaki 125.855 değerin tamamı benzersizdir.
+
+Bu sonuçlar ilk incelemeye aittir. Temiz veri kriterleri kesinleştiğinde aday
+oyun sayısı yeniden hesaplanacaktır.
