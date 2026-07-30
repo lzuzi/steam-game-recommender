@@ -14,12 +14,17 @@
 - [x] Temel alanlardaki eksik değerleri incele
 - [x] Playtest kayıtlarını say
 - [x] Boş dil listelerini ve tekrar eden AppID değerlerini kontrol et
+- [x] Fiyat ve işletim sistemi alanlarını kontrol et
+- [x] Oyun dışı türleri ve güçlü oyun dışı adayları incele
+- [x] Dedicated Server, Editor ve SDK kayıtlarını incele
+- [x] Kategorileri ve oyun modu alanlarını incele
 
 ## Sıradaki adımlar
 
 - [ ] İlk temizleme kurallarını kesinleştir
 - [ ] Playtest ve temel alanları eksik kayıtların nasıl ele alınacağını belirle
-- [ ] Dil bilgisi boş olan ön aday kayıtları incele
+- [ ] Güçlü oyun dışı adayların temizleme kuralını kesinleştir
+- [ ] `02_veri_temizleme.ipynb` dosyasını oluştur
 - [ ] Tekrar kullanılabilir veri yükleme ve temizleme kodunu yaz
 - [ ] Temizlenmiş veri setini `data/processed/` altında üret
 - [ ] Dört kesin filtrenin çıkarımını geliştir
@@ -29,6 +34,6 @@
 
 ## Güncel durum
 
-- **Tarih:** 29 Temmuz 2026
-- **Aşama:** Veri inceleme ve kalite kontrolü
-- **Sıradaki iş:** Temizleme kriterlerini kesinleştirmek
+- **Tarih:** 30 Temmuz 2026
+- **Aşama:** İlk veri inceleme ve kalite kontrolü tamamlandı
+- **Sıradaki iş:** Temizleme kurallarını kesinleştirip ikinci notebooku oluşturmak

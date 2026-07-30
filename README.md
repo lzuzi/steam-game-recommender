@@ -39,21 +39,3 @@ kurulabilir:
 ```bash
 pip install -r requirements.txt
 ```
-
-İlk veri inceleme notebook'u:
-`notebooks/01_veri_inceleme.ipynb`
-
-## İlk veri incelemesi
-
-- Veri setinde 125.855 kayıt ve düzeltilmiş hâliyle 40 sütun bulunmaktadır.
-- CSV başlığında `Discount` ve `DLC count` alanlarının birleştiği görülmüştür.
-- Ham veri değiştirilmeden başlık okuma sırasında iki alana ayrılmıştır.
-- 8.139 Playtest kaydı belirlenmiştir.
-- Temel alanları dolu ve Playtest olmayan 116.281 ön aday kayıt bulunmuştur.
-- 8.391 kayıtta desteklenen dil bilgisi boş liste olarak tutulmaktadır.
-- AppID alanında tekrar eden kayıt bulunmamıştır.
-
-## Durum
-
-İlk veri kalitesi incelemesi tamamlandı. Sıradaki adım temizleme kurallarını
-kesinleştirip tekrar kullanılabilir bir veri hazırlama işlemi oluşturmaktır.

@@ -19,3 +19,18 @@
   hâlinde okunacak.
 - Playtest ve temel alanları eksik kayıtlar, temizleme kuralı kesinleşmeden
   doğrudan silinmeyecek.
+
+## 30 Temmuz 2026
+
+- Eksik veya negatif fiyat bulunmadığı için fiyat alanında düzeltme yapılmayacak.
+- Bütün kayıtlar en az bir işletim sistemini desteklediği için işletim sistemi
+  bilgisi nedeniyle kayıt çıkarılmayacak.
+- Adında `Dedicated Server` veya `SDK` geçen oyun dışı uygulamalar temizleme
+  aşamasında çıkarılacak.
+- `Editor` ifadesi bazı gerçek oyunların adında da bulunduğu için tek başına
+  çıkarma ölçütü olarak kullanılmayacak.
+- Dil listesi boş olan kayıtların dili İngilizce kabul edilmeyecek ve
+  `Bilinmiyor` olarak ele alınacak. Kullanıcı belirli bir dil istediğinde bu
+  kayıtlar doğrulanmış eşleşme sayılmayacak.
+- Oyun modu filtresinde `Single-player`, `Multi-player`, `Co-op` ve `PvP`
+  kategorileri kullanılacak.

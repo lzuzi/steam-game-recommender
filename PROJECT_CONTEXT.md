@@ -39,6 +39,13 @@ klasöründe tutulur ve GitHub'a gönderilmez.
   ön aday olarak belirlenmiştir.
 - Desteklenen dil alanı 8.391 kayıtta boş liste şeklindedir.
 - AppID alanındaki 125.855 değerin tamamı benzersizdir.
+- Fiyat alanında eksik veya negatif değer bulunmamaktadır.
+- Bütün kayıtlar en az bir işletim sistemini desteklemektedir.
+- Temel oyun türlerinden hiçbirini içermeyen 1.364 kayıt güçlü oyun dışı aday
+  olarak belirlenmiştir.
+- Adında `Dedicated Server` geçen 14 ve `SDK` geçen 3 kayıt bulunmaktadır.
+- Ön kullanılabilir oyunlar arasında 110.810 tek oyunculu, 20.707 çok oyunculu,
+  11.284 Co-op ve 12.953 PvP kaydı bulunmaktadır.
 
 Bu sonuçlar ilk incelemeye aittir. Temiz veri kriterleri kesinleştiğinde aday
 oyun sayısı yeniden hesaplanacaktır.

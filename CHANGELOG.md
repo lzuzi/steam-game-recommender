@@ -1,5 +1,13 @@
 # Değişiklik Kaydı
 
+## 30 Temmuz 2026
+
+- Fiyat ve işletim sistemi alanlarının kalite kontrolleri tamamlandı.
+- Veri setindeki türler ve kategoriler incelendi.
+- Oyun dışı türleri içeren kayıtlar ile Dedicated Server, Editor ve SDK
+  kayıtları değerlendirildi.
+- Tek oyunculu, çok oyunculu, Co-op ve PvP oyun modu sayıları hesaplandı.
+
 ## 29 Temmuz 2026
 
 - Steam oyun veri setinin ilk kalite incelemesi tamamlandı.
