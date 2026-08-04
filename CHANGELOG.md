@@ -1,5 +1,12 @@
 # Değişiklik Kaydı
 
+## 4 Ağustos 2026
+
+- Eksik temel alanların kayıtlar içindeki dağılımı incelendi.
+- Temizleme kuralları kesinleştirildi.
+- Demo, Alpha ve Beta ifadelerinin tek başına güvenilir bir çıkarma ölçütü
+  olmadığı belirlendi.
+
 ## 30 Temmuz 2026
 
 - Fiyat ve işletim sistemi alanlarının kalite kontrolleri tamamlandı.

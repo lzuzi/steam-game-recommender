@@ -34,3 +34,13 @@
   kayıtlar doğrulanmış eşleşme sayılmayacak.
 - Oyun modu filtresinde `Single-player`, `Multi-player`, `Co-op` ve `PvP`
   kategorileri kullanılacak.
+
+## 4 Ağustos 2026
+
+- Playtest olmayan kayıtlarda `Name`, `About the game`, `Categories` veya
+  `Genres` alanlarından en az biri eksikse kayıt temizlenmiş öneri havuzuna
+  alınmayacak.
+- Temel oyun türlerinden hiçbirini içermeyen 1.364 güçlü oyun dışı aday temizleme
+  aşamasında öneri havuzundan çıkarılacak.
+- Demo, Alpha veya Beta ifadeleri tek başına çıkarma ölçütü olmayacak; bu ifadeler
+  bazı gerçek oyunların adlarında da kullanılmaktadır.

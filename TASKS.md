@@ -18,12 +18,13 @@
 - [x] Oyun dışı türleri ve güçlü oyun dışı adayları incele
 - [x] Dedicated Server, Editor ve SDK kayıtlarını incele
 - [x] Kategorileri ve oyun modu alanlarını incele
+- [x] Demo, Alpha ve Beta ifadelerini incele
+- [x] İlk temizleme kurallarını kesinleştir
+- [x] Playtest ve temel alanları eksik kayıtların nasıl ele alınacağını belirle
+- [x] Güçlü oyun dışı adayların temizleme kuralını kesinleştir
 
 ## Sıradaki adımlar
 
-- [ ] İlk temizleme kurallarını kesinleştir
-- [ ] Playtest ve temel alanları eksik kayıtların nasıl ele alınacağını belirle
-- [ ] Güçlü oyun dışı adayların temizleme kuralını kesinleştir
 - [ ] `02_veri_temizleme.ipynb` dosyasını oluştur
 - [ ] Tekrar kullanılabilir veri yükleme ve temizleme kodunu yaz
 - [ ] Temizlenmiş veri setini `data/processed/` altında üret
@@ -34,6 +35,6 @@
 
 ## Güncel durum
 
-- **Tarih:** 30 Temmuz 2026
-- **Aşama:** İlk veri inceleme ve kalite kontrolü tamamlandı
-- **Sıradaki iş:** Temizleme kurallarını kesinleştirip ikinci notebooku oluşturmak
+- **Tarih:** 4 Ağustos 2026
+- **Aşama:** İlk veri inceleme ve temizleme kararları tamamlandı
+- **Sıradaki iş:** İkinci notebookta temizleme işlemini uygulamak

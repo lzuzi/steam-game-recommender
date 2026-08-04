@@ -46,6 +46,13 @@ klasöründe tutulur ve GitHub'a gönderilmez.
 - Adında `Dedicated Server` geçen 14 ve `SDK` geçen 3 kayıt bulunmaktadır.
 - Ön kullanılabilir oyunlar arasında 110.810 tek oyunculu, 20.707 çok oyunculu,
   11.284 Co-op ve 12.953 PvP kaydı bulunmaktadır.
+- Playtest olmayan 1.435 kayıtta en az bir temel alan eksiktir; bu kayıtlar
+  temizlenmiş öneri havuzuna alınmayacaktır.
+- Temel oyun türlerinden hiçbirini içermeyen 1.364 kayıt güçlü oyun dışı aday
+  olarak belirlenmiş ve temizleme kuralına dahil edilmiştir.
+- Demo, Alpha veya Beta ifadeleri 326 kaydın adında geçmektedir; örneklerde bu
+  ifadelerin gerçek oyun adlarında da kullanıldığı görüldüğü için tek başına
+  çıkarma ölçütü olarak kullanılmayacaktır.
 
 Bu sonuçlar ilk incelemeye aittir. Temiz veri kriterleri kesinleştiğinde aday
 oyun sayısı yeniden hesaplanacaktır.
