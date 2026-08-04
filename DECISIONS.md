@@ -44,3 +44,6 @@
   aşamasında öneri havuzundan çıkarılacak.
 - Demo, Alpha veya Beta ifadeleri tek başına çıkarma ölçütü olmayacak; bu ifadeler
   bazı gerçek oyunların adlarında da kullanılmaktadır.
+- Temizleme kuralları sonrasında 115.705 kayıt öneri sistemi için kullanılabilir
+  durumda bırakılmıştır.
+- Temizlenmiş veri `data/processed/temiz_games.csv` konumuna kaydedilmiştir.

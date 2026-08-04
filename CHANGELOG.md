@@ -6,6 +6,7 @@
 - Temizleme kuralları kesinleştirildi.
 - Demo, Alpha ve Beta ifadelerinin tek başına güvenilir bir çıkarma ölçütü
   olmadığı belirlendi.
+- Temizleme notebooku oluşturuldu ve 115.705 kayıtlık temiz veri üretildi.
 
 ## 30 Temmuz 2026
 

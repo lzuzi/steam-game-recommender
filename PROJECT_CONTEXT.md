@@ -53,6 +53,9 @@ klasöründe tutulur ve GitHub'a gönderilmez.
 - Demo, Alpha veya Beta ifadeleri 326 kaydın adında geçmektedir; örneklerde bu
   ifadelerin gerçek oyun adlarında da kullanıldığı görüldüğü için tek başına
   çıkarma ölçütü olarak kullanılmayacaktır.
+- Temizleme kuralları uygulandıktan sonra 115.705 kayıt temiz öneri havuzunda
+  bırakılmıştır.
+- Temiz veri `data/processed/temiz_games.csv` konumuna kaydedilmiştir.
 
-Bu sonuçlar ilk incelemeye aittir. Temiz veri kriterleri kesinleştiğinde aday
-oyun sayısı yeniden hesaplanacaktır.
+Temizleme aşaması tamamlanmış, sonraki aşama kesin filtrelerin doğal dilden
+çıkarılması olarak belirlenmiştir.

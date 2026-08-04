@@ -25,9 +25,9 @@
 
 ## Sıradaki adımlar
 
-- [ ] `02_veri_temizleme.ipynb` dosyasını oluştur
-- [ ] Tekrar kullanılabilir veri yükleme ve temizleme kodunu yaz
-- [ ] Temizlenmiş veri setini `data/processed/` altında üret
+- [x] `02_veri_temizleme.ipynb` dosyasını oluştur
+- [x] Tekrar kullanılabilir veri yükleme ve temizleme kodunu yaz
+- [x] Temizlenmiş veri setini `data/processed/` altında üret
 - [ ] Dört kesin filtrenin çıkarımını geliştir
 - [ ] Filtrelenmiş oyunlar üzerinde anlamsal aramayı geliştir
 - [ ] En fazla beş açıklanabilir öneri göster
@@ -36,5 +36,5 @@
 ## Güncel durum
 
 - **Tarih:** 4 Ağustos 2026
-- **Aşama:** İlk veri inceleme ve temizleme kararları tamamlandı
-- **Sıradaki iş:** İkinci notebookta temizleme işlemini uygulamak
+- **Aşama:** Veri inceleme ve temizleme aşaması tamamlandı
+- **Sıradaki iş:** Dört kesin filtreyi doğal dilden çıkarmaya başlamak
